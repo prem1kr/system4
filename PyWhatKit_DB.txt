@@ -1,0 +1,135 @@
+Date: 29/10/2024
+Time: 10:6
+Phone Number: +916280071704
+Message: Here is the recognized data!
+--------------------
+Date: 29/10/2024
+Time: 10:7
+Phone Number: +916280071704
+Message: Here is the recognized data!
+--------------------
+Date: 29/10/2024
+Time: 10:19
+Phone Number: +916280071704
+Message: recognized_data.xlsx
+--------------------
+Date: 29/10/2024
+Time: 10:38
+Phone Number: +916280071704
+Message: recognized_data.xlsx
+--------------------
+Date: 29/10/2024
+Time: 10:43
+Phone Number: +916280071704
+Message: recognized_data.xlsx
+--------------------
+Date: 29/10/2024
+Time: 10:48
+Phone Number: +916280071704
+Message: "C:/Users/premk/Music/face-recognizer/recognized_data.xlsx"
+--------------------
+Date: 29/10/2024
+Time: 10:49
+Phone Number: +916280071704
+Message: "C:/Users/premk/Music/face-recognizer/recognized_data.xlsx"
+--------------------
+Date: 29/10/2024
+Time: 10:57
+Phone Number: +916280071704
+Message: Hi! I've shared the recognized data with you. You can download it from here: https://example.com/download/recognized_data.xlsx
+--------------------
+Date: 29/10/2024
+Time: 12:46
+Phone Number: +916280071704
+Message: Hi! I've shared the recognized data with you. You can download it from here: https://example.com/download/recognized_data.xlsx
+--------------------
+Date: 29/10/2024
+Time: 13:28
+Phone Number: +916280071704
+Message: Hi! I've shared the recognized data with you. You can download it from here: https://example.com/download/recognized_data.xlsx
+--------------------
+Date: 30/10/2024
+Time: 6:51
+Phone Number: +916280071704
+Message: Hi! I've shared the recognized data with you. You can download it from here: https://example.com/download/recognized_data.xlsx
+--------------------
+Date: 30/10/2024
+Time: 7:15
+Phone Number: +91
+Message: Hi! I've shared the recognized data with you. You can download it from here: https://example.com/download/recognized_data.xlsx
+--------------------
+Date: 30/10/2024
+Time: 7:20
+Phone Number: +916280071704
+Message: Hi! Here is the data: https://example.com/download/recognized_data.xlsx
+--------------------
+Date: 30/10/2024
+Time: 7:46
+Phone Number: +916280071704
+Message: Hi! Here is the data: https://example.com/download/recognized_data.xlsx
+--------------------
+Date: 31/10/2024
+Time: 9:18
+Phone Number: +916280071704
+Message: Hi! Here is the attendance log: path/to/Attendance_Log.xlsx
+--------------------
+Date: 2/11/2024
+Time: 7:43
+Phone Number: +916280071704
+Message: Here is the recognition log report: https://drive.google.com/drive/folders/1G5BFx2LIpYLf8WtF3o6BIvj08ChL6FKO?usp=drive_link
+--------------------
+Date: 2/11/2024
+Time: 8:41
+Phone Number: +916280071704
+Message: Here is the recognition log report. You can download it [here](https://drive.google.com/drive/u/0/home).
+--------------------
+Date: 2/11/2024
+Time: 8:50
+Phone Number: +916280071704
+Message: Here is the recognition log report. You can download it [here](https://drive.google.com/drive/folders/1yzLNJNv8ZSMCiYK1gCbIf0NcVGMedflp?usp=drive_link).
+--------------------
+Date: 2/11/2024
+Time: 9:7
+Phone Number: +916280071704
+Message: Here is the recognition log report. You can download it [here](https://drive.google.com/drive/folders/1G5BFx2LIpYLf8WtF3o6BIvj08ChL6FKO?usp=drive_link).
+--------------------
+Date: 2/11/2024
+Time: 9:13
+Phone Number: +916280071704
+Message: Here is the recognition log report. You can download it [here](https://drive.google.com/drive/folders/1G5BFx2LIpYLf8WtF3o6BIvj08ChL6FKO?usp=drive_link).
+--------------------
+Date: 7/11/2024
+Time: 10:31
+Phone Number: +916280071704
+Message: Here is the recognition log report. You can download it [here](https://drive.google.com/drive/u/2/home).
+--------------------
+Date: 7/11/2024
+Time: 10:35
+Phone Number: +9162280071704
+Message: Here is the recognition log report. You can download it [here](https://googledrive.hone).
+--------------------
+Date: 7/11/2024
+Time: 10:40
+Phone Number: +916280071704
+Message: Here is the recognition log report. You can download it [here](https://drive.google.com/drive/u/2/home).
+--------------------
+Date: 14/11/2024
+Time: 20:15
+Phone Number: +916280071704
+Message: Here is the recognition log report. You can download it [here](https://drive.google.com/drive/folders/1G5BFx2LIpYLf8WtF3o6BIvj08ChL6FKO?usp=sharing).
+--------------------
+Date: 14/11/2024
+Time: 20:27
+Phone Number: +916280071704
+Message: Here is the recognition log report. You can download it from Google Drive: None
+--------------------
+Date: 14/11/2024
+Time: 20:40
+Phone Number: +916280071704
+Message: Here is the recognition log report. The file is saved locally at: C:\Users\premk\Music\face-recognizer\recognition_log.xlsx
+--------------------
+Date: 15/11/2024
+Time: 13:0
+Phone Number: +916280071704
+Message: Here is the recognition log report. The file is saved locally at: C:\Users\premk\Music\face-recognizer\recognition_log.xlsx
+--------------------
